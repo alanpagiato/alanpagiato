@@ -1,0 +1,7 @@
+<div>
+  <h2>Sobre mim</h2>
+  <p>Oi, eu sou um desenvolvedor com mais de 17 anos de experiência na indústria de tecnologia. Tenho uma grande base em Visual Basic 6, mas também trabalho com as últimas tecnologias, como <strong>JavaScript</strong>, <strong>React</strong>, <strong>TypeScript</strong>, <strong>Node Js</strong> e <strong>Redux</strong>. Além disso, sou especialista em software para a área médica e já trabalhei em sistemas comerciais e de indústria.</p>
+  <p>Atualmente, estou trabalhando em vários projetos interessantes e estou sempre procurando novas oportunidades para me desafiar e crescer como profissional. Sou muito bom trabalhando em equipe e acredito que a comunicação clara é fundamental para o sucesso. Gosto de usar minha criatividade para solucionar problemas complexos e sempre estou procurando novas oportunidades de aprendizado. Já trabalhei em muitos projetos diferentes, desde aplicativos de desktop até sistemas de gerenciamento empresarial.</p>
+  <p>Sou proficiente em diversos sistemas de gerenciamento e bibliotecas de banco de dados, incluindo <strong>MySQL</strong>, <strong>PostgreSQL</strong> e <strong>MongoDB</strong>. Também tenho experiência trabalhando com <strong>Git</strong> e integração contínua.</p>
+  <p>Se você estiver interessado em trabalhar juntos em algum projeto futuro, eu seria um ótimo candidato. Estou ansioso para aplicar minhas habilidades e experiência e ajudar a moldar o futuro da tecnologia.</p>
+</div>
